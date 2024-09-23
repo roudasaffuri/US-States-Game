@@ -17,3 +17,8 @@ This is a guessing game project written in Python that allows users to guess the
 - Pandas
 
 
+![Screenshot 2024-09-22 193630](https://github.com/user-attachments/assets/371be55f-30ae-4d01-99d9-1f938835a76c)
+![Screenshot 2024-09-22 193643](https://github.com/user-attachments/assets/427b31f3-97b2-41ff-a9b8-3ed0106af31a)
+![Screenshot 2024-09-22 193653](https://github.com/user-attachments/assets/d9e726fb-5cb0-41d8-983f-6eac501d6e0c)
+![Screenshot 2024-09-22 193732](https://github.com/user-attachments/assets/e2884d73-22a4-4c6e-aae6-d458b12ad267)
+![Screenshot 2024-09-22 193749](https://github.com/user-attachments/assets/2d8f16c6-a85f-489d-aadf-6858dacb90ee)
